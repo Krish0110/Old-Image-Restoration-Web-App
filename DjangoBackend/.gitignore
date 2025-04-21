@@ -1,0 +1,81 @@
+/djangoEnv
+
+/models
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.pot
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.djangoenv/
+.DS_Store
+
+# Django
+*.sqlite3
+*.db
+*.pyo
+*.pyd
+*.swp
+
+# Environment variables and secret files
+.env
+.env.*
+
+# Django static/media files (optional)
+staticfiles/
+media/
+static/
+media_root/
+static_root/
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled model files and checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.joblib
+*.pkl
+*.sav
+*.onnx
+checkpoints/
+runs/  # for TensorBoard logs
+
+# Jupyter Notebook Checkpoints (if used for model training)
+.ipynb_checkpoints/
+
+# PyTorch Lightning logs (if used)
+lightning_logs/
+
+# FastAI specific
+models/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Test coverage
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+
+# Migrations (optional if you regenerate them)
+**/migrations/*.pyc
+**/migrations/__pycache__/
+**/migrations/*.py
+
+runEnv/

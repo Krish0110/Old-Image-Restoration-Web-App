@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction",
+    "description": "Images are indispensable in life and production, serving as one of the most crucial means for individuals to access, convey, and disseminate information. Images have huge interaction on day to day lives from sharing historical memories to recording current state of day to day life events. Due to various reasons such as fading, creasing, staining and tearing etc. Images gets damaged as it gets older with time. Image restoration technique is one of the widely used Computer Vision task of recovering the damaged part of the image. From the past ten years, the research for restoring damaged image using machine learning platform has been going on applying different techniques and methods. Within this decade, image restoration research has been conducted by utilizing the historical research papers in solving restoration task. One of the most widely researched techniques in this field is use of Generative Adversarial Network (GAN) in restoring or generating the missing parts of damaged image. Different research are being conducted on restoring the facial part of image."
+  },
+  {
+    "id": 2,
+    "title": "Problem Statement",
+    "description": "Old photographs are invaluable cultural and historical artifacts, capturing moments and memories that span generations. However, these photographs are susceptible to various forms of physical degradation over time. Factors such as environmental exposure, improper storage, and handling can lead to fading, discoloration, scratches, and other types of damage. This degradation not only diminishes the aesthetic quality of these images but also threatens the preservation of historical and personal heritage."
+  },
+  {
+    "id": 3,
+    "title": "Objectives",
+    "description": "The primary objective of this project is to develop a robust old photo restoration technique that can accurately reconstruct damaged or degraded facial photographs to their original quality. The goal is to preserve essential details and fine textures in the restored images, ensuring that the enhanced photographs are both realistic and rich in detail."
+  },
+  {
+    "id": 4,
+    "title": "Scope",
+    "description": "This section defines the scope of the project."
+  },
+  {
+    "id": 5,
+    "title": "Literature Review",
+    "description": "This section summarizes the related research work."
+  }
+]

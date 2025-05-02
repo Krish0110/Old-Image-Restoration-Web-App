@@ -1,6 +1,8 @@
 /djangoEnv
 
 /models
+/output_images
+/uploaded_images
 
 # Python
 __pycache__/

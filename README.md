@@ -1,0 +1,1 @@
+A full-stack web application that restores old and damaged images using Attentive Generative Adversarial Networks (AGAN). The frontend is built with React, and the backend is powered by Django with deep learning integration for automatic damage detection and restoration.
